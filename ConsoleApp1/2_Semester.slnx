@@ -1,7 +1,0 @@
-<Solution>
-  <Folder Name="/PR38_LINQ/">
-    <Project Path="../../../dmu-2025-2026-exercise-materials/Pr38_LINQ/BonusApp/BonusApp.csproj" />
-    <Project Path="../../../dmu-2025-2026-exercise-materials/Pr38_LINQ/BonusAppUnitTest/BonusAppUnitTest.csproj" />
-    <Project Path="../../1_Semester/Sjov_Med_Linkq/Sjov_Med_Linkq.csproj" />
-  </Folder>
-</Solution>
