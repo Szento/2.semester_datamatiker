@@ -2,6 +2,11 @@
   <Folder Name="/LINQ/">
     <Project Path="Sjov_Med_Linkq/Sjov_Med_Linkq.csproj" />
   </Folder>
-  <Project Path="../dmu-2025-2026-exercise-materials/Pr38_LINQ/BonusApp/BonusApp.csproj" />
-  <Project Path="../dmu-2025-2026-exercise-materials/Pr38_LINQ/BonusAppUnitTest/BonusAppUnitTest.csproj" />
+  <Folder Name="/PR_38Linq/">
+    <Project Path="../dmu-2025-2026-exercise-materials/Pr38_LINQ/BonusApp/BonusApp.csproj" />
+    <Project Path="../dmu-2025-2026-exercise-materials/Pr38_LINQ/BonusAppUnitTest/BonusAppUnitTest.csproj" />
+  </Folder>
+  <Folder Name="/SomeDatabase/">
+    <Project Path="ADatabase/ADatabase.csproj" Id="40f5cf98-66ee-4e94-b3af-8d4974db3158" />
+  </Folder>
 </Solution>
