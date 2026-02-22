@@ -2,6 +2,9 @@
   <Folder Name="/LINQ/">
     <Project Path="Sjov_Med_Linkq/Sjov_Med_Linkq.csproj" />
   </Folder>
+  <Folder Name="/PR42_Database03/">
+    <Project Path="TheMovies/TheMovies.csproj" Id="3b6c9b4c-add9-480a-89be-a7f8e761f918" />
+  </Folder>
   <Folder Name="/PR_38Linq/">
     <Project Path="../dmu-2025-2026-exercise-materials/Pr38_LINQ/BonusApp/BonusApp.csproj" />
     <Project Path="../dmu-2025-2026-exercise-materials/Pr38_LINQ/BonusAppUnitTest/BonusAppUnitTest.csproj" />
